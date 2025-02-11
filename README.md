@@ -65,7 +65,7 @@ For any questions or further information, please feel free to reach out!
    ![Dashboard](images/Dashboard.png)
 
 2. **S3 Bucket Setup**
-   ![S3 Bucket Setup](images/S3 Bucket Setup.png)
+   ![S3 Bucket Setup](https://github.com/m0hit5/Renewable-Energy-Analysis/blob/main/images/S3%20Bucket%20Setup.png)
 
 3. **Snowflake Setup**
    ![Snowflake](images/Snowflake.png)
